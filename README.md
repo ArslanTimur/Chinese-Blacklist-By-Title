@@ -1,5 +1,5 @@
 # TL;DR
-這是一個uBlacklist訂閱清單，規則全部基於標題匹配，不定期更新
+這是一個[uBlacklist](https://github.com/iorate/ublacklist)訂閱清單，規則全部基於標題匹配，不定期更新
 
 # Why?
 這幾年來垃圾站點不斷進化，到現在已經可以寄生正常網站，而現存的uBlacklist規則清單大多針對域名，對於這類網站完全無效
