@@ -19,26 +19,26 @@
 # 用法
 uBlacklist加入以下訂閱項目即可
 ```
-# advertisement
+// advertisement
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/advertisement.txt
 ```
 ```
-# gambling
+// gambling
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/gambling.txt
 ```
 ```
-# porn
+// porn
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/porn.txt
 ```
 ```
-# others
+// others
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/others.txt
 ```
-# manual_rules
+// manual_rules
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/manual_rules.txt
 ```
 ```
-# all_in_one
+// all_in_one
 https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/all_in_one.txt
 ```
 # 推薦的其他清單
