@@ -18,14 +18,24 @@
 
 # 用法
 uBlacklist加入以下訂閱項目即可
-
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/advertisement.txt`
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/gambling.txt`
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/porn.txt`
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/others.txt`
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/manual_rules.txt`
-`https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/all_in_one.txt`
-
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/advertisement.txt
+```
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/gambling.txt
+```
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/porn.txt
+```
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/others.txt
+```
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/manual_rules.txt
+```
+```
+https://raw.githubusercontent.com/ArslanTimur/Chinese-Blocklist-By-Title/main/rules/all_in_one.txt
+```
 
 # 推薦的其他清單
 1. https://iorate.github.io/ublacklist/subscriptions#chinese
